@@ -1,0 +1,5 @@
+{
+  "apiUrl": {
+    "dev": "https://5a389mxofl.execute-api.us-west-1.amazonaws.com/dev"
+  }
+}
